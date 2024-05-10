@@ -1,0 +1,85 @@
+.Everything {
+	width:85.375em;
+	margin:auto;
+	 background-image:url('vintage-grunge-paper-background.png');
+	 background-size: 85.375em;
+	background-size: cover;
+}
+
+Body {
+	 font-family: 'Courier New', monospace;
+	
+}
+.carousel-item {
+
+}
+
+.carousel-item img {
+  width: 85.375em;
+  height: 483px;
+}
+.g-0 {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+
+nav ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	display:inline-block;
+	text-align:center;
+
+}
+nav li {
+    display: inline-block;
+   text-align:center; 
+	
+}
+nav li a {
+	display:block;
+	color:black;
+	padding:14px 16px;
+	text-decoration:none;
+
+	font-size:25px;
+}
+.image {
+	
+	 transition: transform .5s ease;
+}
+.image:hover {
+	 transform: scale(1.2);
+	
+	
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+.vertic {
+	border-left:2px solid black;
+	height:100px;
+	
+}
+.Typogr {
+	margin-left:-120px;
+	
+}
+.Footer {
+	margin:auto;
+	
+}
